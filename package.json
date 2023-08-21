@@ -14,6 +14,8 @@
   "dependencies": {
     "@clerk/clerk-sdk-node": "^4.10.12",
     "@clerk/nextjs": "^4.21.9-snapshot.56dc3e3",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@headlessui/react": "^1.7.15",
     "@pinecone-database/pinecone": "^0.1.6",
     "@supabase/supabase-js": "^2.25.0",
